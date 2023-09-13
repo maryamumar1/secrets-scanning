@@ -1,0 +1,6 @@
+POST https://discord.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+data:
+  client_id: "1115348803457925140"
+  client_secret: "d714808ab325db38e752c35bf08d6e488d3b7cf50aa8a6fc77c9394d48c71950"
+  token: "d714808ab325db38e752c35bf08d6e488d3b7cf50aa8a6fc77c9394d48c71950"
